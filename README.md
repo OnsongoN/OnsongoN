@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning to create data analysis projects with Python, SQL, Excel, PowerBI and Tableau
 - 💞️ I’m looking to collaborate on a number of these projects with my groupmates
 - 📫 How to reach me via email, willsfred9@gmail.com
+- I added a week 7 case study project
 
 <!---
 OnsongoN/OnsongoN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
